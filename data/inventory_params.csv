@@ -1,0 +1,3 @@
+sku_id,supplier_id,lead_time_days,service_level
+SKU-001,SUP-001,14,0.95
+SKU-002,SUP-002,21,0.98
