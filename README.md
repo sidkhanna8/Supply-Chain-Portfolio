@@ -1,4 +1,5 @@
-![CI](https://github.com/<sidkhanna8>/demand-forecasting-inventory-simulation/actions/workflows/python-ci.yml/badge.svg
+![CI](https://github.com/<sidkhanna8>/demand-forecasting-inventory-simulation/actions/workflows/python-ci.yml/badge.svg?branch=main)
+
 )
 
 # Demand Forecasting & Inventory Simulation
